@@ -1,0 +1,87 @@
+[
+  {
+    "id": "fj_001",
+    "name": "桂枝汤",
+    "aliases": ["桂枝汤方"],
+    "pinyin": "guizhitang",
+    "initials": "gzt",
+    "source": "《伤寒论》",
+    "category": "解表剂",
+    "efficacy": "解肌发表，调和营卫",
+    "indication": "外感风寒，头痛发热，汗出恶风，鼻鸣干呕，苔白不渴，脉浮缓",
+    "composition": [
+      { "herbName": "桂枝", "dosage": "9g" },
+      { "herbName": "芍药", "dosage": "9g" },
+      { "herbName": "甘草", "dosage": "6g" },
+      { "herbName": "生姜", "dosage": "9g" },
+      { "herbName": "大枣", "dosage": "4枚" }
+    ],
+    "usage": "水煎服，温服取微汗",
+    "contraindication": "阴虚火旺、血热者慎用",
+    "tags": ["伤寒", "解表", "调和营卫"],
+    "providerId": "local"
+  },
+  {
+    "id": "fj_002",
+    "name": "麻黄汤",
+    "aliases": ["麻黄汤方"],
+    "pinyin": "mahuangtang",
+    "initials": "mht",
+    "source": "《伤寒论》",
+    "category": "解表剂",
+    "efficacy": "发汗解表，宣肺平喘",
+    "indication": "外感风寒，恶寒发热，无汗而喘，脉浮紧",
+    "composition": [
+      { "herbName": "麻黄", "dosage": "9g" },
+      { "herbName": "桂枝", "dosage": "6g" },
+      { "herbName": "杏仁", "dosage": "9g" },
+      { "herbName": "甘草", "dosage": "3g" }
+    ],
+    "usage": "水煎服，温服覆取微汗",
+    "tags": ["发汗", "宣肺"],
+    "providerId": "local"
+  },
+  {
+    "id": "fj_003",
+    "name": "小柴胡汤",
+    "aliases": ["小柴胡汤方"],
+    "pinyin": "xiaochaihutang",
+    "initials": "xcht",
+    "source": "《伤寒论》",
+    "category": "和解剂",
+    "efficacy": "和解少阳",
+    "indication": "少阳证，往来寒热，胸胁苦满，默默不欲饮食，心烦喜呕，口苦，咽干，目眩，脉弦",
+    "composition": [
+      { "herbName": "柴胡", "dosage": "8g" },
+      { "herbName": "黄芩", "dosage": "6g" },
+      { "herbName": "半夏", "dosage": "6g" },
+      { "herbName": "人参", "dosage": "6g" },
+      { "herbName": "甘草", "dosage": "6g" },
+      { "herbName": "生姜", "dosage": "6g" },
+      { "herbName": "大枣", "dosage": "4枚" }
+    ],
+    "usage": "水煎服",
+    "tags": ["少阳", "和解"],
+    "providerId": "local"
+  },
+  {
+    "id": "fj_004",
+    "name": "四物汤",
+    "aliases": ["四物汤方", "桃红四物汤类基方"],
+    "pinyin": "siwutang",
+    "initials": "swt",
+    "source": "《仙授理伤续断秘方》",
+    "category": "补益剂",
+    "efficacy": "补血调血",
+    "indication": "血虚证，头晕目眩，心悸失眠，面色萎黄，月经不调，量少色淡，脉细弱",
+    "composition": [
+      { "herbName": "当归", "dosage": "9g" },
+      { "herbName": "川芎", "dosage": "6g" },
+      { "herbName": "白芍", "dosage": "9g" },
+      { "herbName": "熟地黄", "dosage": "9g" }
+    ],
+    "usage": "水煎服",
+    "tags": ["补血", "调经"],
+    "providerId": "local"
+  }
+]
