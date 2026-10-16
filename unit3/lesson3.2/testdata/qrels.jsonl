@@ -1,0 +1,25 @@
+{"query":"病人身大热,反欲近衣者,热在皮肤,寒在骨髓也","any_of":["病人身大热,反欲近衣者,"],"note":"auto: 条文 label anchor"}
+{"query":"脉浮紧者法当身疼痛,宜以汗解之","any_of":["脉浮紧者法当身疼痛,宜以"],"note":"auto: 条文 label anchor"}
+{"query":"脉浮数者,法当汗出而愈","any_of":["脉浮数者,法当汗出而愈"],"note":"auto: 条文 label anchor"}
+{"query":"病常自汗出者,此为营气和","any_of":["病常自汗出者,此为营气和"],"note":"auto: 条文 label anchor"}
+{"query":"大下之后复发汗小便不利者亡津液故也","any_of":["大下之后复发汗小便不利者"],"note":"auto: 条文 label anchor"}
+{"query":"发汗,病不解,反恶寒者,虚故也","any_of":["发汗,病不解,反恶寒者,"],"note":"auto: 条文 label anchor"}
+{"query":"发汗后,恶寒者,虚故也","any_of":["发汗后,恶寒者,虚故也"],"note":"auto: 条文 label anchor"}
+{"query":"发汗若下之病仍不解,烦躁四逆者茯苓四逆汤主之","any_of":["发汗若下之病仍不解,烦躁"],"note":"auto: 条文 label anchor"}
+{"query":"太阳病,发汗后,大汗出,胃中干,烦躁不得眠,欲得水饮水之,令胃气和则愈","any_of":["太阳病,发汗后,大汗出,"],"note":"auto: 条文 label anchor"}
+{"query":"发汗后,水药不得入口为逆","any_of":["发汗后,水药不得入口为逆"],"note":"auto: 条文 label anchor"}
+{"query":"未持脉时,病人叉手自冒心,师因教试令,以重发汗,虚,故如此","any_of":["未持脉时,病人叉手自冒心"],"note":"auto: 条文 label anchor"}
+{"query":"发汗后,饮水多,必喘,以水灌之亦喘","any_of":["发汗后,饮水多,必喘,以"],"note":"auto: 条文 label anchor"}
+{"query":"咽喉干燥者,不可发汗","any_of":["咽喉干燥者,不可发汗"],"note":"auto: 条文 label anchor"}
+{"query":"亡血家,不可发汗,发汗则寒栗而振","any_of":["亡血家,不可发汗,发汗则"],"note":"auto: 条文 label anchor"}
+{"query":"汗家重发汗,必恍惚心乱,小便已阴疼,与禹余粮丸","any_of":["汗家重发汗,必恍惚心乱,"],"note":"auto: 条文 label anchor"}
+{"query":"病人有寒,复发汗,胃中冷,必吐蛔","any_of":["病人有寒,复发汗,胃中冷"],"note":"auto: 条文 label anchor"}
+{"query":"太阳病,发热汗出者,此为营弱卫强,故使汗邪风者,宜桂枝汤","any_of":["太阳病,发热汗出者,此为"],"note":"auto: 条文 label anchor"}
+{"query":"脉浮,热甚,反灸之,此为实","any_of":["脉浮,热甚,反灸之,此为"],"note":"auto: 条文 label anchor"}
+{"query":"病发于阳,而反下之,热入","any_of":["病发于阳,而反下之,热入"],"note":"auto: 条文 label anchor"}
+{"query":"伤寒五六日已发汗而复下之","any_of":["伤寒五六日已发汗而复下之"],"note":"auto: 条文 label anchor"}
+{"query":"表以下之,本身有水饮停蓄在下焦,泻心汤下去,不是泻心汤不解,而是他有水饮所以没解掉,这时候用五苓散把水排,石或膀胱结没有口渴,代表病人的肠胃津液很足","any_of":["表以下之,本身有水饮停蓄"],"note":"auto: 条文 label anchor"}
+{"query":"大下之后复发汗小便不利者亡津液故也甘澜水","any_of":["甘澜水"],"note":"curated: 长常见词 + 稀有术语，暴露 lexical 无 IDF"}
+{"query":"太阳病发热汗出者此为营弱卫强故使汗邪风者宜桂枝汤禹余粮丸","any_of":["禹余粮丸"],"note":"curated: 长常见词 + 稀有术语，暴露 lexical 无 IDF"}
+{"query":"人身上有阴有阳,心悸,昏昏沉沉,","any_of":["真武汤"],"note":"auto: 条文 label anchor"}
+{"query":"手脚冰冷,","any_of":["茯苓","四逆"],"note":"auto: 条文 label anchor"}
