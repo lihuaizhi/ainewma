@@ -1,6 +1,6 @@
 module github.com/lihuaizhi/ainewma/unit3/lesson3.2
 
-go 1.25.8
+go 1.23
 
 require (
 	github.com/lyyyuna/milvus-lite-go/v2 v2.5.104
